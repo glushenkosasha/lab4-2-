@@ -17,4 +17,3 @@ if is_power_of_2(number):
     print(f"{number} є степенем 2")
 else:
     print(f"{number} не є степенем 2")
-
